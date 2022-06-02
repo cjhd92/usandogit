@@ -30,7 +30,7 @@ export const Login = () => {
         <div className='form-usuario'>
             <div className='contenedor-form sombra-dark'>
 
-                <h1>Iniciar Sesion1234RamaMain</h1>
+                <h1>RPueba SW</h1>
 
                 <form
                          onSubmit={onSubmit}>
